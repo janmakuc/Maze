@@ -1,0 +1,30 @@
+html{
+	background: url("../slike/ozadje.png") no-repeat center center fixed;
+	background-size: cover;
+	overflow-y: hidden;
+}
+
+header{
+	text-align: center;
+	font-size: 60px;
+	font-weight: bold;
+	font-family: 'Exo 2', sans-serif;
+	color: #925c1d;
+	margin-bottom: 0.2%;
+}
+
+#glavno{
+	margin-left: auto;
+	margin-right: auto;
+	width: 730px;
+	height:  730px;
+	float: center;
+}
+
+footer{
+	text-align: center;
+	color: #a8a8a8;
+	font-weight: bold;
+	font-family: 'Exo 2', sans-serif;
+	font-size: 15px;
+}
